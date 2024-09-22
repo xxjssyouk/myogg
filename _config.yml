@@ -1,6 +1,7 @@
 title: Blog · xxjssyouk
 url:   "https://134688.xyz/myogg/"
-baseurl: "/myogg"
+description: "MySQL数据库内核研发相关" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+baseurl: ""
 
 # 全局顶部导航栏配置。格式："名称=跳转链接"，名称和跳转链接之间用"="分隔。例如 "About=/about.html"
 nav:
