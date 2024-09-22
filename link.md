@@ -5,7 +5,7 @@ date:   2024-09-22 16:01:18 +0800
 ---
 友情链接
 
-[myogg|blog](https://xxjssyouk.github.io/myogg)
+[myoggblog](https://xxjssyouk.github.io/myogg)
 
 [做个有意思的人](https://jianghaiyina.com)
 
